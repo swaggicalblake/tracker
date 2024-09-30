@@ -2,9 +2,9 @@ import requests
 import time
 from datetime import datetime
 #Discord webhooks
-Snippet_Main = "PUT_YOUR_WEBHOOK_HERE"
-Snippet_Logs = "PUT_YOUR_WEBHOOK_HERE"
-Session_Ticket = "PUT_YOUR_WEBHOOK_HERE"
+Snippet_Main = "https://discord.com/api/webhooks/1290359477425668148/h7uP2i8CIcre1OtQMR3vSJ_lZnSpeBjTdMvuBlOZsKmVJSAW7u-qfmkQ3xwQ7lsqa00q"
+Snippet_Logs = "https://discord.com/api/webhooks/1290359502503280761/3oJstqhpddTeenlrYFg_RSf0V8cPVpOfLt_ZqRVLAA2XFdglupNQKb9ytFFzvSPBqauC"
+Session_Ticket = "https://discord.com/api/webhooks/1290359502503280761/3oJstqhpddTeenlrYFg_RSf0V8cPVpOfLt_ZqRVLAA2XFdglupNQKb9ytFFzvSPBqauC"
 #Variables
 regions = ["US", "USW", "EU"]
 title = "63FDD"
